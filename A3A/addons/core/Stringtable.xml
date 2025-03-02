@@ -7223,11 +7223,11 @@
         <Chinesesimp>你的班组需要有一个通信员才可以给其他班组下达命令</Chinesesimp>
       </Key>
       <Key ID="STR_A3A_fn_reinf_NATObomb_run">
-        <Original>Friendly airstrike is inbound. ETA 30 seconds.</Original>
-        <French>Attaque aérienne allié en approche. ETA 30 secondes.</French>
-        <Korean>아군 공습이 시작됩니다. 예상 도착 시간은 30초입니다.</Korean>
-        <Russian>Ожидается авиаудар. Осталось 30 секунд.</Russian>
-        <Chinesesimp>友军空中打击已入境. 预计30秒后到达</Chinesesimp>
+        <Original>Friendly airstrike is inbound. ETA %1 seconds.</Original>
+        <French>Attaque aérienne allié en approche. ETA %1 secondes.</French>
+        <Korean>아군 공습이 시작됩니다. 예상 도착 시간은 %1초입니다.</Korean>
+        <Russian>Ожидается авиаудар. Осталось %1 секунд.</Russian>
+        <Chinesesim>友军空中打击已入境. 预计%1秒后到达</Chinesesim>
       </Key>
       <Key ID="STR_A3A_fn_reinf_NatoBomb_select_end">
         <Original>Select the map position to which the plane will exit to calculate plane's route vector.</Original>
