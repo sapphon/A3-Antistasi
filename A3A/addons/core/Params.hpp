@@ -272,6 +272,14 @@ class Params
         texts[] = {$STR_antistasi_dialogs_generic_button_no_tooltip,$STR_antistasi_dialogs_generic_button_yes_text};
         default = 1;
     };
+    class playerAirstrikeDelaySeconds
+    {
+        attr[] = {"server"};
+        title = $STR_A3A_Params_playerAirstrikeDelaySeconds_title;
+        values[] = {30, 60, 90, 120, 300};
+        texts[] = {"30", "60", "90", "120", "300"};
+        default = 30;
+    };
     class allowUnfairSupports
     {
         attr[] = {"server"};
